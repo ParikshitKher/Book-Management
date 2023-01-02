@@ -4,8 +4,8 @@
 Frontend/node_modules
 Frontend/.pnp
 Frontend/.pnp.js
-Frontend/src/client_secret.json
 Frontend/src/googleCredentials.js
+Frontend/src/client_secret.json
 
 # testing
 Frontend/coverage
